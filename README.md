@@ -33,4 +33,10 @@ For any queries, feel free to reach out via the **Contact Us** form on the websi
 
 💚*Plant Pharma – Harnessing nature’s healing power!*
 
+## Author
+
+https://github.com/meghanaN3011
+
+www.linkedin.com/in/meghana-n3011
+
 
