@@ -17,6 +17,15 @@ Plant Pharma is a simple yet informative website built using **HTML, CSS, and an
 
 ## 📸 Screenshots
 
+![Screenshot (265)](https://github.com/user-attachments/assets/c64d74fe-cb18-4097-9f8b-0264b0224886)
+
+![Screenshot (266)](https://github.com/user-attachments/assets/cc0b3760-6092-4c22-906c-8ab2bea506a4)
+
+![Screenshot (267)](https://github.com/user-attachments/assets/842c5fea-cb65-4a48-8557-a0896ee1c087)
+
+![Screenshot (268)](https://github.com/user-attachments/assets/40696d90-7599-455d-928c-3b2798b2471c)
+
+![Screenshot (269)](https://github.com/user-attachments/assets/52e66704-0529-49e7-801b-dd84c7e5a5d6)
 
 ## 📩 Contact & Support
 
