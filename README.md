@@ -31,6 +31,6 @@ Plant Pharma is a simple yet informative website built using **HTML, CSS, and an
 
 For any queries, feel free to reach out via the **Contact Us** form on the website or open an issue in this repository.
 
-💚*PlantPharma – Harnessing nature’s healing power!*
+💚*Plant Pharma – Harnessing nature’s healing power!*
 
 
