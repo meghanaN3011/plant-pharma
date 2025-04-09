@@ -13,7 +13,7 @@ Plant Pharma is a simple yet informative website built using **HTML, CSS, and an
 ## 🚀 Tech Stack
 
 - **Frontend:** HTML, CSS
-- **API:** Email API for contact form submission named Web3Forms.
+- **API:** Email API named Web3Forms for contact form submission.
 
 ## 📸 Screenshots
 
